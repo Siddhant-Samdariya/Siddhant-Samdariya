@@ -11,10 +11,10 @@
 ## 💫 About Me
 
 - 🎓 Computer Science student from India  
-- 💻 Interested in **AI/ML**, **C++**, and **Software Development**
-- 🚀 Currently improving my **DSA** and development skills
-- 🌱 Exploring **Open Source** and collaborative projects
-- ⚡ Love building projects and solving coding problems
+- 💻 Interested in AI/ML, Problem Solving, and Software Development
+- 🚀 Currently improving my DSA and development skills
+- 🌱 Exploring Open Source and collaborative projects
+- ⚡ Love building projects and learning new technologies
 
 ---
 
@@ -54,12 +54,9 @@
 
 | Project | Description |
 |---|---|
-| 💬 Social Media App in C++ | Console-based social media platform implementing OOP concepts, user handling, posts, likes, comments, and stories |
 | 🧠 DSA Practice Repository | Collection of coding problems, algorithms, and daily problem-solving practice |
-| 🤖 AI/ML Learning | Repository containing AI/ML concepts, experiments, and learning implementations |
 
-```
-::contentReference[oaicite:0]{index=0}
+---
 
 ## 🏆 Achievements
 
