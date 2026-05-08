@@ -54,11 +54,12 @@
 
 | Project | Description |
 |---|---|
-| 💬 Social Media App | Terminal-based social media platform using C++ and OOP |
-| 🤖 AI/ML Learning | Learning and implementing machine learning concepts |
-| 🧠 DSA Practice | Daily coding practice and algorithm solutions |
+| 💬 Social Media App in C++ | Console-based social media platform implementing OOP concepts, user handling, posts, likes, comments, and stories |
+| 🧠 DSA Practice Repository | Collection of coding problems, algorithms, and daily problem-solving practice |
+| 🤖 AI/ML Learning | Repository containing AI/ML concepts, experiments, and learning implementations |
 
----
+```
+::contentReference[oaicite:0]{index=0}
 
 ## 🏆 Achievements
 
